@@ -5,7 +5,7 @@ The source code used in the Next.JS Lazy Loading Tutorial.
 > Please give the repository a star(⭐) if you liked the work. Also, follow [tapaScript on GitHub](https://github.com/tapascript).
 
 ![The App](https://github.com/user-attachments/assets/2846e0c9-3f90-44fa-b3bb-233576fefead)
-
+ 
 
 ## 🔥 Use the Demo App
 
